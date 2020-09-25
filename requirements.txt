@@ -48,7 +48,7 @@ scipy==1.1.0
 sip==4.19.8
 six==1.11.0
 tensorboard==1.8.0
-tensorflow==1.8.0
+tensorflow==1.15.4
 tensorflow-tensorboard==0.4.0rc3
 termcolor==1.1.0
 update-checker==0.16
